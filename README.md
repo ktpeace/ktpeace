@@ -4,7 +4,7 @@
 
 <a href="https://linkedin.com/in/katherine-peace" target="blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
 
-I recently finished the intensive App Academy Open fullstack bootcamp. 🏅 I was so active in the online community that people often mistook me for an employee! AAO asked me to be a Discord mod (though I am too busy at the moment--achieving my coding dreams) and I continue to work with them on bootcamp improvements.
+I recently finished the intensive App Academy Open fullstack bootcamp. 🏅 I was so active in the online community that people often mistook me for an employee! AAO asked me to be a Discord mod (though I am too busy at the moment achieving my coding dreams) and I continue to work with them on bootcamp improvements.
 
 
 Since then, I have been programming with other students and solo to cement and expand my skills in preparation for a career in the field. Some of my strengths are that I am humble, determined, and constantly refactoring myself.
