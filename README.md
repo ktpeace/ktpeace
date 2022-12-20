@@ -102,7 +102,7 @@ Outside of coding, I spend a lot of time talking to friends and walking in the w
 
 - Fave Netflix show: Midnight Mass
 - Fave movie: A Thousand Clowns
-- Fave show as a child: Probably the animated X-Men
+- Fave show as a child: Probably the animated X-Men (best while eating Lucky Charms)
 
 
 <h3>🎮 Playing: Divinity: Original Sin II</h3>
