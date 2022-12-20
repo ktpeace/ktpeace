@@ -112,4 +112,5 @@ Outside of coding, I spend a lot of time talking to friends and walking in the w
 --- 
 
 Thanks for stopping by! Feel free to reach out with any questions! 😼 
+
 <a href="https://linkedin.com/in/katherine-peace" target="blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
