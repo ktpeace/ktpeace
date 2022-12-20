@@ -74,7 +74,7 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 
 <h2>👩 Me As A Human</h2>
 
-*The author of this profile acknowledges that software engineers are probably humans.*
+*I acknowledge that software engineers are probably humans.*
 
 Outside of coding, I spend a lot of time talking to friends and walking in the woods. My primary life passion is writing fiction, especially in the genre of magical realism. Other hobbies include foreign languages, car mechanics, world history, karate, the constellations, juggling, guitar, anatomy, sketching, and plant identification. Lately I have mostly just been focusing on programming, though. I try to do vipassana meditation daily. 
 
