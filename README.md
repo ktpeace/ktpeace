@@ -13,7 +13,7 @@ Since then, I have been programming with other students and solo to cement and e
 
 *<p align="center">📆 What I'm Up To on 12/20</p>*
 
-- Learning Docker & Fly.io to host the backend of a simple [app](https://github.com/ktpeace/milkwall) whose page of text any visitor can edit for all. It uses React, Express, and a JSON database due to its simplicity. The frontend is hosted on Netlify
+- Learning Docker & Fly.io to host the backend of a simple [app](https://github.com/ktpeace/milkwall) whose page of text any visitor can edit for all. It uses React, Express, and a JSON database. The frontend is hosted on Netlify
 
 - Cementing data structures and algorithms by teaming up with a former bootcamp student to follow Frontend Mentor's DS&A course and work on relevant Leetcodes together
 
