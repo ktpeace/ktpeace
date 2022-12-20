@@ -108,3 +108,7 @@ Outside of coding, I spend a lot of time talking to friends and walking in the w
 <h3>🎮 Playing: Divinity: Original Sin II</h3>
 
 - I also play darts with my dad sometimes, which has way fewer dwarves
+
+--- 
+
+Thanks for stopping by! Feel free to reach out with any questions! 😼
