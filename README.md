@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Kat. 🙋‍♀️ Welcome to my profile!</h1>
 
-<h2>🤖 As a Software Engineer</h2>
+<h2>🤖 Me As a Software Engineer</h2>
 
 <a href="https://linkedin.com/in/katherine-peace" target="blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
 
@@ -72,7 +72,7 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 
 <p align="center">🌿</p>
 
-<h2>👩 As A Human</h2>
+<h2>👩 Me As A Human</h2>
 
 *The author of this profile acknowledges that software engineers are probably humans.*
 
