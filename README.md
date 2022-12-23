@@ -4,10 +4,10 @@
 
 <a href="https://linkedin.com/in/katherine-peace" target="blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
 
-I recently finished the intensive App Academy Open fullstack bootcamp. 🏅 I was so active in the online community that people often mistook me for an employee! AAO asked me to be a Discord mod (though I am too busy at the moment achieving my coding dreams) and I continue to work with them on bootcamp improvements.
+I completed the intensive App Academy Open fullstack bootcamp in 2022. 🎊 I was so active in the online community that people often mistook me for an employee! AAO asked me to be a Discord mod (though I am too busy at the moment achieving my coding dreams) and I continue to work with them on bootcamp improvements.
 
 
-Since then, I have been programming with other students and solo to cement and expand my skills in preparation for a career in the field. Some of my strengths are that I am humble, determined, and constantly refactoring myself.
+Since then, I have been programming with other students and solo to cement and expand my skills in preparation for a career in the field: solving problems, learning new concepts and languages, and making working apps. Some of my strengths are that I am humble, determined, and constantly refactoring myself.
 
 ---
 
@@ -73,6 +73,7 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73.svg?style=for-the-badge&logo=Snyk&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![YAML](https://img.shields.io/static/v1?label=&message=yaml&color=red&style=for-the-badge)
 
 <h4 align="left">🌅On the Horizon</h4>
 
