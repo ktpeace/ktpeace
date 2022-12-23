@@ -67,6 +67,7 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 
 <h4 align="left">📖Learning</h4>
 
+![Fly.io](https://img.shields.io/static/v1?label=&message=fly.io&color=8561ea&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73.svg?style=for-the-badge&logo=Snyk&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
