@@ -11,7 +11,7 @@ Since then, I have been programming with other students and solo to cement and e
 
 ---
 
-*<p align="center">📆 What I'm Up To on 12/23</p>*
+*<p align="center">📆 What I'm Up To on 12/27</p>*
 
 - Breaking into Typescript + cementing data structures and algorithms by teaming up with a former bootcamp student to follow Frontend Mentor's DS&A course and work on relevant Leetcodes together
 
@@ -112,7 +112,7 @@ Outside of coding, I spend a lot of time talking to friends and walking in the w
 - A Confederacy of Dunces is a good Don Quixote when you don't feel like reading 350,000 antiquated words 🌭🍩
 - I also recommend Ralph Ellison's Invisible Man and Jon Klassen's This Is Not My Hat (spoiler alert: it's not his hat)
 
-<h3>🍴 Watching: Knives Out 2 (sooon!)</h3>
+<h3>🍴 Watching: Guillermo del Toro's Cabinet of Curiosities</h3>
 
 - Fave Netflix show: Midnight Mass
 - Fave movie: A Thousand Clowns
