@@ -17,7 +17,7 @@ Since then, I have been programming with other students and solo to cement and e
 
 - Learning Python
 
-- Breaking into Typescript + cementing data structures and algorithms by teaming up with a former bootcamp student to follow Frontend Mentor's DS&A course and work on relevant Leetcodes together
+- Cementing data structures and algorithms by teaming up with a former bootcamp student to follow Frontend Mentor's DS&A course and work on relevant Leetcodes together
 
 ---
 
