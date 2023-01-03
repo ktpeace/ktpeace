@@ -115,7 +115,7 @@ Outside of coding, I spend a lot of time talking to friends and walking in the w
 - A Confederacy of Dunces is a good Don Quixote when you don't feel like reading 350,000 antiquated words 🌭🍩
 - I also recommend Ralph Ellison's Invisible Man and Jon Klassen's This Is Not My Hat (spoiler alert: it's not his hat)
 
-<h3>🗄️ Watching: Guillermo del Toro's Cabinet of Curiosities</h3>
+<h3>🗄️ Watching: Alice in Borderland</h3>
 
 - Fave Netflix show: Midnight Mass
 - Fave movie: A Thousand Clowns
