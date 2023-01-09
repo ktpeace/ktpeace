@@ -15,7 +15,7 @@ Since then, I have been programming with other students and solo to cement and e
 
 - Building the frontend of a commissioned project in React
 
-- Learning Python
+- Building a small project to show my design skills
 
 - Cementing data structures and algorithms by teaming up with a former bootcamp student to follow Frontend Mentor's DS&A course and work on relevant Leetcodes together
 
