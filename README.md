@@ -11,7 +11,7 @@ Since then, I have been programming with other students and solo to cement and e
 
 ---
 
-*<p align="center">📆 What I'm Up To on 1/2</p>*
+*<p align="center">📆 What I'm Up To on 1/9</p>*
 
 - Building the frontend of a commissioned project in React
 
