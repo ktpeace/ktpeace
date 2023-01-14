@@ -11,13 +11,15 @@ Since then, I have been programming with other students and solo to cement and e
 
 ---
 
-*<p align="center">📆 What I'm Up To on 1/9</p>*
+*<p align="center">📆 What I'm Up To on 1/13</p>*
 
 - Building the frontend of a commissioned project in React
 
 - Building a small project to show my design skills
 
-- Cementing data structures and algorithms by teaming up with a former bootcamp student to follow Frontend Mentor's DS&A course and work on relevant Leetcodes together
+- Cementing data structures and algorithms with a former bootcamp student by following Frontend Masters' "The Last Algorithms Course You'll Need" and working on Leetcodes
+
+- Learning Python
 
 ---
 
