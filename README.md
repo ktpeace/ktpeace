@@ -11,13 +11,15 @@ Since then, I have been programming with other students and solo to cement and e
 
 ---
 
-*<p align="center">📆 What I'm Up To on 1/17</p>*
+*<p align="center">📆 What I'm Up To on 1/19</p>*
 
 - Building the frontend of a commissioned project in React (est. 30% complete / 5 days remaining)
 
-- Building a small project to show my design skills  (est. 40% complete / 2 days remaining)
+- Building a small project to show my design skills  (est. 60% complete / 1-2 days remaining)
 
 - Cementing data structures and algorithms with a former bootcamp student by following Frontend Masters' "The Last Algorithms Course You'll Need" and working on Leetcodes (est. 60% complete / 3 days remaining)
+
+- Learning Next.js & Typescript (est. 5% complete / cannot estimate, knowledge too limited)
 
 - Learning Python (est. 10% complete / cannot estimate, knowledge too limited)
 
@@ -72,21 +74,21 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 
 <h4 align="left">📖Learning</h4>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Snyk](https://img.shields.io/badge/Snyk-4C4A73.svg?style=for-the-badge&logo=Snyk&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![YAML](https://img.shields.io/static/v1?label=&message=yaml&color=red&style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 <h4 align="left">🌅On the Horizon</h4>
 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=Google-Analytics&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
+![Snyk](https://img.shields.io/badge/Snyk-4C4A73.svg?style=for-the-badge&logo=Snyk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![YAML](https://img.shields.io/static/v1?label=&message=yaml&color=red&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
 
 <p align="center">🌿</p>
