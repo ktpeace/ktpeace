@@ -15,7 +15,7 @@ Since then, I have been programming with other students and solo to cement and e
 
 - Building the frontend of a commissioned project in React (est. 30% complete / 5 days remaining)
 
-- Building a small project to show my design skills  (est. 60% complete / 1-2 days remaining)
+- Building a small project to show my design skills  (est. 80% complete / 1-2 days remaining)
 
 - Building a serious learning resources app with logins (just started)
 
