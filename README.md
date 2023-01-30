@@ -11,17 +11,19 @@ Since then, I have been programming with other students and solo to cement and e
 
 ---
 
-*<p align="center">📆 What I'm Up To on 1/21</p>*
+*<p align="center">📆 What I'm Up To on 1/30</p>*
+
+- Starting a web dev internship with a small company
 
 - Building the frontend of a commissioned project in React (est. 30% complete / 5 days remaining)
 
-- Building a small project to show my design skills  (est. 80% complete / 1-2 days remaining)
+- Building a small project to show my design skills  (est. 90% complete / 1-2 days remaining)
 
 - Building a serious learning resources app with logins (just started)
 
 - Cementing data structures and algorithms with a former bootcamp student by following Frontend Masters' "The Last Algorithms Course You'll Need" and working on Leetcodes (est. 60% complete / 3 days remaining)
 
-- Learning Next.js, Typescript, & Chakra UI (est. 10% complete / cannot estimate, knowledge too limited)
+- Learning Next.js, Typescript, Firebase, & Chakra UI (est. 10% complete / cannot estimate, knowledge too limited)
 
 - Learning Python (est. 10% complete / cannot estimate, knowledge too limited)
 
