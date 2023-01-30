@@ -30,6 +30,11 @@ Since then, I have been programming with other students and solo to cement and e
 ---
 
 
+🍀 Side note: You may notice my Github "garden" is quite empty over 2022...that was a hard lesson about what happens when you delete old repos such activity was connected to. 😣
+
+---
+
+
 <h3>💟 Values</h3>
 
 Due in part to former work at a Commission for the Blind, I am keenly interested in gaining accessibility expertise. I also have great admiration for the Electronic Frontier Foundation and take Internet privacy seriously. AI is a major concern both in terms of everyone's job security and ethical design/training, but it is inevitable, so I would like to work on helping build positive AI someday (ref. Baymax 💙). And of course, I want to write code in a way that makes things easy for my fellow developers.
