@@ -11,9 +11,9 @@ Since then, I have been programming with other students and solo to cement and e
 
 ---
 
-*<p align="center">📆 What I'm Up To on 1/30</p>*
+*<p align="center">📆 What I'm Up To on 2/4</p>*
 
-- Starting a web dev internship with a small company
+- Working part-time as a software engineering intern for a small company
 
 - Building the frontend of a commissioned project in React (est. 30% complete / 5 days remaining)
 
