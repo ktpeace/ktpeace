@@ -7,7 +7,7 @@
 I completed the intensive App Academy Open fullstack bootcamp in 2022. 🎊 It was a lot of hard work, but I learned a ton. AAO asked me to be a Discord mod (though I am too busy at the moment achieving my coding dreams) and I continue to work with them on bootcamp improvements.
 
 
-Since then, I have been programming with other students and solo to cement and expand my skills in preparation for a career in the field: solving problems, learning new concepts and languages, and making working apps. Some of my strengths are that I am humble, determined, and constantly refactoring myself.
+Since then, I have been working as an intern for a small company, and programming with other students and solo to cement and expand my skills in preparation for a career in the field: solving problems, learning new concepts and languages, and making working apps. Some of my strengths are that I am humble, determined, and constantly refactoring myself.
 
 ---
 
