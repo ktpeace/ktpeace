@@ -23,7 +23,7 @@ Since then, I have been working as an intern for a small company, and programmin
 
 - Cementing data structures and algorithms with a former bootcamp student by following Frontend Masters' "The Last Algorithms Course You'll Need" and working on Leetcodes (est. 60% complete / 3 days remaining)
 
-- Learning Next.js, Typescript, Firebase, & Chakra UI (est. 10% complete / cannot estimate, knowledge too limited)
+- Learning Next.js, Typescript, & Firebase (est. 10% complete / cannot estimate, knowledge too limited)
 
 - Learning Python (est. 10% complete / cannot estimate, knowledge too limited)
 
@@ -50,6 +50,7 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-222222.svg?style=for-the-badge&logo=GitHub-Pages&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white)
 
 <h4 align="left">✨Familiar</h4>
 
@@ -80,7 +81,6 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Chakra UI](https://img.shields.io/badge/Chakra%20UI-319795.svg?style=for-the-badge&logo=Chakra-UI&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
