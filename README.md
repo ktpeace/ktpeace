@@ -11,13 +11,13 @@ Since then, I have been working as an intern for a small company, and programmin
 
 ---
 
-*<p align="center">📆 What I'm Up To on 2/4</p>*
+*<p align="center">📆 What I'm Up To on 2/15</p>*
 
 - Working part-time as a software engineering intern for a small company
+- 
+- Fine-tuning my first portfolio site: https://ktpeace.github.io/kudogen/
 
 - Building the frontend of a commissioned project in React (est. 30% complete / 5 days remaining)
-
-- Building a small project to show my design skills  (est. 90% complete / 1-2 days remaining)
 
 - Building a serious learning resources app with logins (just started)
 
