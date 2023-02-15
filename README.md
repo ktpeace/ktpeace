@@ -19,7 +19,7 @@ Since then, I have been working as an intern for a small company, and programmin
 
 - Building the frontend of a commissioned project in React (est. 30% complete / 5 days remaining)
 
-- Building a serious learning resources app with logins (just started)
+- Building my second portfolio site, a fullstack learning resources app (just started)
 
 - Cementing data structures and algorithms with a former bootcamp student by following Frontend Masters' "The Last Algorithms Course You'll Need" and working on Leetcodes (est. 60% complete / 3 days remaining)
 
