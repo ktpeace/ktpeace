@@ -11,11 +11,15 @@ Apart from that, I have been programming with other students and solo to cement 
 
 ---
 
+<h3>Portfolio</h3>
+
+- https://ktpeace.github.io/kudogen/
+- [second site coming soon]
+---
+
 *<p align="center">📆 What I'm Up To on 2/21</p>*
 
 - Working part-time as a software engineering intern for a small company
-
-- Fine-tuning my first portfolio site: https://ktpeace.github.io/kudogen/
 
 - Building the frontend of a commissioned project in React (est. 30% complete / 5 days remaining)
 
