@@ -13,9 +13,9 @@ Apart from that, I have been programming with other students and solo to cement 
 
 🔵 KUDOGEN Compliment Generator (frontend): https://ktpeace.github.io/kudogen/
 
-🐮 Milkwall WikiText (fullstack): https://prismatic-chimera-edeb3d.netlify.app/
-
 💸 Tip Calculator (frontend): https://ktpeace.github.io/tip-calculator/
+
+🐮 Milkwall WikiText (fullstack): https://prismatic-chimera-edeb3d.netlify.app/
 
 ---
 
