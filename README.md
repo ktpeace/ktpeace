@@ -13,7 +13,7 @@ Apart from that, I have been programming with other students and solo to cement 
 
 Completed
 - KUDOGEN Compliment Generator: https://ktpeace.github.io/kudogen/
-- 
+
 In Progress
 - an autodidact learning hub: https://github.com/ktpeace/autodidact-hub
 - a revamping/revival of http://sf0.org/ for a friend: https://github.com/ktpeace/w0rld
