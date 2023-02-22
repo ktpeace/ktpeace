@@ -12,9 +12,10 @@ Apart from that, I have been programming with other students and solo to cement 
 <h3>Portfolio</h3>
 🔵 KUDOGEN Compliment Generator (frontend): https://ktpeace.github.io/kudogen/
 
-🐮 Milkwall WikiText (fullstack): https://github.com/ktpeace/milkwall
+🐮 Milkwall WikiText (fullstack): https://prismatic-chimera-edeb3d.netlify.app/
 
-💸 Tip Calculator (frontend): https://github.com/ktpeace/tip-calculator
+💸 Tip Calculator (frontend): https://ktpeace.github.io/tip-calculator/
+
 
 ---
 
