@@ -11,8 +11,12 @@ Apart from that, I have been programming with other students and solo to cement 
 
 <h3>Portfolio</h3>
 
-- https://ktpeace.github.io/kudogen/
-- [second site in progress]
+- KUDOGEN Compliment Generator: https://ktpeace.github.io/kudogen/
+- [in progress - an autodidact learning hub] https://github.com/ktpeace/autodidact-hub
+- [in progress - a revamping/revival of http://sf0.org/ for a friend] https://github.com/ktpeace/w0rld
+- [in progress - a Choose Your Own Adventure phone app built with Inky] (writing stage)
+- [planned - my own site containing these finished projects]
+
 ---
 
 *<p align="center">📆 What I'm Up To on 2/21</p>*
