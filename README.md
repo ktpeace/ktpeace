@@ -12,7 +12,7 @@ Apart from that, I have been programming with other students and solo to cement 
 <h3>Portfolio</h3>
 
 - https://ktpeace.github.io/kudogen/
-- [second site coming soon]
+- [second site in progress]
 ---
 
 *<p align="center">📆 What I'm Up To on 2/21</p>*
