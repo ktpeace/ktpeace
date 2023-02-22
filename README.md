@@ -10,17 +10,7 @@ I completed the intensive App Academy Open fullstack bootcamp in 2022. 🎊 It w
 Apart from that, I have been programming with other students and solo to cement and expand my skills for a career in the field: solving problems, learning new concepts and languages, and making working apps. Some of my strengths are that I am humble, determined, and constantly refactoring myself.
 
 <h3>Portfolio</h3>
-
-Completed
 - KUDOGEN Compliment Generator: https://ktpeace.github.io/kudogen/
-
-In Progress
-- an autodidact learning hub: https://github.com/ktpeace/autodidact-hub
-- a revamping/revival of http://sf0.org/ for a friend: https://github.com/ktpeace/w0rld
-- a Choose Your Own Adventure phone app built with Inky: (writing stage)
-
-Planned
-- my own site containing these finished projects
 
 ---
 
@@ -28,15 +18,15 @@ Planned
 
 - Working part-time as a software engineering intern for a small company
 
-- Building the frontend of a commissioned project in React (est. 30% complete / 5 days remaining)
+- Building a revamping/revival of http://sf0.org/ for a friend: https://github.com/ktpeace/w0rld (est. 30% complete / 5 days remaining)
 
-- Building my second portfolio site, a fullstack learning resources app (just started)
+- Building a Choose Your Own Adventure phone app built with Inky (writing stage, est. 5% complete / many days remaining)
+
+- Building an autodidact learning hub: https://github.com/ktpeace/autodidact-hub
 
 - Cementing data structures and algorithms with a former bootcamp student by following Frontend Masters' "The Last Algorithms Course You'll Need" and working on Leetcodes (est. 60% complete / 3 days remaining)
 
-- Learning Next.js, Typescript, & Firebase (est. 10% complete)
-
-- Learning Python (est. 20% complete)
+- Learning new languages (see below)
 
 ---
 
