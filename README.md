@@ -23,9 +23,9 @@ Apart from that, I have been programming with other students and solo to cement 
 
 - Cementing data structures and algorithms with a former bootcamp student by following Frontend Masters' "The Last Algorithms Course You'll Need" and working on Leetcodes (est. 60% complete / 3 days remaining)
 
-- Learning Next.js, Typescript, & Firebase (est. 10% complete / cannot estimate, knowledge too limited)
+- Learning Next.js, Typescript, & Firebase (est. 10% complete)
 
-- Learning Python (est. 10% complete / cannot estimate, knowledge too limited)
+- Learning Python (est. 20% complete)
 
 ---
 
