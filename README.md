@@ -27,7 +27,7 @@ Apart from that, I have been programming with other students and solo to cement 
 
 - Building a Choose Your Own Adventure phone app built with Inky (writing stage, est. 5% complete / many days remaining)
 
-- Building an autodidact learning hub: https://github.com/ktpeace/autodidact-hub
+- Building an autodidact learning hub: https://github.com/ktpeace/autodidact-hub (just started, major fullstack project, many days remaining)
 
 - Cementing data structures and algorithms with a former bootcamp student by following Frontend Masters' "The Last Algorithms Course You'll Need" and working on Leetcodes (est. 60% complete / 3 days remaining)
 
