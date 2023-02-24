@@ -21,9 +21,9 @@ Apart from that, I have been programming with other students and solo to cement 
 
 *<p align="center">📆 What I'm Up To on 2/21</p>*
 
-- Working part-time as a software engineering intern for <a href="https://www.amotionsinc.com/" target="_blank">Amotions
+- Working part-time as a software engineering intern for <a href="https://www.amotionsinc.com/" target="_blank">Amotions</a>
 
-- Building a revamping/revival of http://sf0.org/ for a friend: https://github.com/ktpeace/w0rld (est. 30% complete / 5 days remaining)
+- Building a revamping/revival of the game <a href="http://sf0.org/" target="_blank">SF0</a> for a friend: https://github.com/ktpeace/w0rld (est. 30% complete / 5 days remaining)
 
 - Building a Choose Your Own Adventure phone app with help from Inky (writing stage, est. 5% complete / many days remaining)
 
