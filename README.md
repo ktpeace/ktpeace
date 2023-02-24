@@ -25,7 +25,7 @@ Apart from that, I have been programming with other students and solo to cement 
 
 - Building a revamping/revival of http://sf0.org/ for a friend: https://github.com/ktpeace/w0rld (est. 30% complete / 5 days remaining)
 
-- Building a Choose Your Own Adventure phone app built with Inky (writing stage, est. 5% complete / many days remaining)
+- Building a Choose Your Own Adventure phone app with help from Inky (writing stage, est. 5% complete / many days remaining)
 
 - Building an autodidact learning hub: https://github.com/ktpeace/autodidactyl (just started, major fullstack project, many days remaining)
 
