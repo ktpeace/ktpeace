@@ -23,11 +23,11 @@ Apart from that, I have been programming with other students and solo to cement 
 
 - Working part-time as a software engineering intern for <a href="https://www.amotionsinc.com/" target="_blank">Amotions</a>
 
-- Building a revamping/revival of the game <a href="http://sf0.org/" target="_blank">SF0</a> for a friend: https://github.com/ktpeace/w0rld (est. 30% complete / 5 days remaining)
+- Building a revamping/revival of the game <a href="http://sf0.org/" target="_blank">SF0</a> for a friend: <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a> (est. 30% complete / 5 days remaining)
 
 - Building a Choose Your Own Adventure phone app with help from Inky (writing stage, est. 5% complete / many days remaining)
 
-- Building an autodidact learning hub: https://github.com/ktpeace/autodidactyl (just started, major fullstack project, many days remaining)
+- Building an autodidact learning hub: <a href="https://github.com/ktpeace/autodidactyl" target="_blank">Autodidactyl</a> (just started, major fullstack project, many days remaining)
 
 - Cementing data structures and algorithms with a former bootcamp student by following Frontend Masters' "The Last Algorithms Course You'll Need" and working on Leetcodes (est. 60% complete / 3 days remaining)
 
