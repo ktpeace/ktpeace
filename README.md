@@ -102,6 +102,7 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![YAML](https://img.shields.io/static/v1?label=&message=yaml&color=red&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
 
 <p align="center">🌿</p>
 
