@@ -19,12 +19,6 @@ Apart from that, I have been programming with other students and solo to cement 
 
 ---
 
-<h3>🎉 Most Recent Win</h3>
-
-- Finished a <a href="https://frontendmasters.com/courses/algorithms/">DS&A course</a>
-
----
-
 *<p align="center">📆 What I'm Up To on 3/4</p>*
 
 - Working part-time as a software engineering intern for <a href="https://www.amotionsinc.com/" target="_blank">Amotions</a>
