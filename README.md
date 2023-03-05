@@ -25,6 +25,8 @@ Apart from that, I have been programming with other students and solo to cement 
 
 - Building a Choose Your Own Adventure wintry horror phone app with help from <a href="https://www.inklestudios.com/ink/">Inky</a> (currently brainstorming the plot details with a friend)
 
+- Building <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a>
+
 - Building an autodidact learning hub: <a href="https://github.com/ktpeace/autodidactyl" target="_blank">Autodidactyl</a> 
 
 - Continuing to deepen my knowledge of DS&A and solving Leetcodes
