@@ -9,7 +9,7 @@ I completed the intensive App Academy Open fullstack bootcamp in 2022. 🎊 It w
 
 Apart from that, I have been programming with other students and solo to cement and expand my skills for a career in the field: solving problems, learning new concepts and languages, and making working apps. Some of my strengths are that I am humble, determined, and constantly refactoring myself.
 
-<h3>Portfolio</h3>
+<h3>🎨 Portfolio</h3>
 
 🔵 KUDOGEN Compliment Generator (original project, frontend): https://ktpeace.github.io/kudogen/
 
