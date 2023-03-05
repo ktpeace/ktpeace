@@ -19,19 +19,25 @@ Apart from that, I have been programming with other students and solo to cement 
 
 ---
 
-*<p align="center">📆 What I'm Up To on 2/21</p>*
+<h3>🎉 Most Recent Win</h3>
+
+- Finished a <a href="https://frontendmasters.com/courses/algorithms/">DS&A course</a>
+
+---
+
+*<p align="center">📆 What I'm Up To on 3/4</p>*
 
 - Working part-time as a software engineering intern for <a href="https://www.amotionsinc.com/" target="_blank">Amotions</a>
 
-- Building a revamping/revival of the game <a href="http://sf0.org/" target="_blank">SF0</a> for a friend: <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a> (est. 30% complete / 5 days remaining)
+- Building a revamping/revival of the game <a href="http://sf0.org/" target="_blank">SF0</a> for a friend: <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a>
 
-- Building a Choose Your Own Adventure phone app with help from Inky (writing stage, est. 5% complete / many days remaining)
+- Building a Choose Your Own Adventure wintry horror phone app with help from <a href="https://www.inklestudios.com/ink/">Inky</a> (currently brainstorming the plot details with a friend)
 
-- Building an autodidact learning hub: <a href="https://github.com/ktpeace/autodidactyl" target="_blank">Autodidactyl</a> (just started, major fullstack project, many days remaining)
+- Building an autodidact learning hub: <a href="https://github.com/ktpeace/autodidactyl" target="_blank">Autodidactyl</a> 
 
-- Cementing data structures and algorithms with a former bootcamp student by following Frontend Masters' "The Last Algorithms Course You'll Need" and working on Leetcodes (est. 60% complete / 3 days remaining)
+- Continuing to deepen my knowledge of DS&A and solving Leetcodes
 
-- Learning new languages (see below)
+- Learning new technologies (see below)
 
 ---
 
