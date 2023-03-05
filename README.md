@@ -13,9 +13,7 @@ Apart from that, I have been programming with other students and solo to cement 
 
 - KUDOGEN Compliment Generator (original project, frontend): https://ktpeace.github.io/kudogen/
 
-- Tip Calculator (frontend): https://ktpeace.github.io/tip-calculator/
-
-- Milkwall WikiText (original project, fullstack): https://prismatic-chimera-edeb3d.netlify.app/
+- See my pinned repos for some other projects, such as a tip calculator and fullstack global wikitext page. Nothing else feels as "portfolio ready" as Kudogen. My second portfolio site will be World Zero--see below.
 
 ---
 
@@ -29,7 +27,7 @@ Apart from that, I have been programming with other students and solo to cement 
 
 - Working part-time as a software engineering intern for <a href="https://www.amotionsinc.com/" target="_blank">Amotions</a>
 
-- Building a revamping/revival of the game <a href="http://sf0.org/" target="_blank">SF0</a> for a friend: <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a>
+- Building a revamping/revival of the game <a href="http://sf0.org/" target="_blank">SF0</a> for a friend using React, Next.js, MySQL: <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a>
 
 - Building a Choose Your Own Adventure wintry horror phone app with help from <a href="https://www.inklestudios.com/ink/">Inky</a> (currently brainstorming the plot details with a friend)
 
