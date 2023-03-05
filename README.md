@@ -15,7 +15,7 @@ Apart from that, I have been programming with other students and solo to cement 
 
 - <i>Lesser projects hosted live: <a href="https://alienbattleship.netlify.app/">👽 Alien Battleship</a> <a href="https://github.com/ktpeace/tip-calculator">💸 Tip Calculator</a> <a href="https://github.com/ktpeace/milkwall">🐮 Milkwall</a></i>
 
-- My second serious portfolio site will be <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a>, a revamping/revival of the game <a href="http://sf0.org/" target="_blank">SF0</a> for a friend
+- <i>My second serious portfolio site will be <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a>, a revamping/revival of the game <a href="http://sf0.org/" target="_blank">SF0</a> for a friend</i>
 
 ---
 
