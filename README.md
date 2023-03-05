@@ -11,11 +11,11 @@ Apart from that, I have been programming with other students and solo to cement 
 
 <h3>🎨 Portfolio</h3>
 
-- <a href="https://ktpeace.github.io/kudogen/">KUDOGEN Compliment Generator</a>
+- <a href="https://ktpeace.github.io/kudogen/">KUDOGEN</a>: Compliment your friends!
 
 - My second portfolio site will be <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a>, a a revamping/revival of the game <a href="http://sf0.org/" target="_blank">SF0</a> for a friend
 
-- (See my pinned repos below for less pro completed projects)
+- (See my pinned repos below for other completed projects)
 
 ---
 
