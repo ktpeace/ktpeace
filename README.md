@@ -17,24 +17,6 @@ Apart from that, I have been programming with other students and solo to cement 
 
 - <i>My second serious portfolio site will be <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a>, a revamping/revival of the game <a href="http://sf0.org/" target="_blank">SF0</a> for a friend</i>
 
----
-
-*<p align="center">📆 What I'm Up To on 3/4</p>*
-
-- Working part-time as a software engineering intern for <a href="https://www.amotionsinc.com/" target="_blank">Amotions</a>
-
-- Building a Choose Your Own Adventure wintry horror phone app with help from <a href="https://www.inklestudios.com/ink/">Inky</a> (currently brainstorming the plot details with a friend)
-
-- Building <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a>
-
-- Building an autodidact learning hub: <a href="https://github.com/ktpeace/autodidactyl" target="_blank">Autodidactyl</a> 
-
-- Continuing to deepen my knowledge of DS&A and solving Leetcodes
-
-- Learning new technologies (see below)
-
----
-
 <h3>💟 Values</h3>
 
 Due in part to former work at a Commission for the Blind, I am keenly interested in gaining accessibility expertise. I also have great admiration for the Electronic Frontier Foundation and take Internet privacy seriously. AI is a major concern both in terms of everyone's job security and ethical design/training, but it is inevitable, so I would like to work on helping build positive AI someday (ref. Baymax 💙). I appreciate companies that consider their environmental impact. And of course, I want to write code in a way that makes things easy for my fellow developers.
@@ -103,6 +85,24 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 ![YAML](https://img.shields.io/static/v1?label=&message=yaml&color=red&style=for-the-badge)
 ![Django](https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
+
+---
+
+*<p align="center">📆 What I'm Up To on 3/4</p>*
+
+- Working part-time as a software engineering intern for <a href="https://www.amotionsinc.com/" target="_blank">Amotions</a>
+
+- Building a Choose Your Own Adventure wintry horror phone app with help from <a href="https://www.inklestudios.com/ink/">Inky</a> (currently brainstorming the plot details with a friend)
+
+- Building <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a>
+
+- Building an autodidact learning hub: <a href="https://github.com/ktpeace/autodidactyl" target="_blank">Autodidactyl</a> 
+
+- Continuing to deepen my knowledge of DS&A and solving Leetcodes
+
+- Learning new technologies (see below)
+
+---
 
 <p align="center">🌿</p>
 
