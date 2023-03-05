@@ -13,9 +13,9 @@ Apart from that, I have been programming with other students and solo to cement 
 
 - <a href="https://ktpeace.github.io/kudogen/">KUDOGEN</a>: Compliment your friends!
 
-- In the works: my second portfolio site will be <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a>, a a revamping/revival of the game <a href="http://sf0.org/" target="_blank">SF0</a> for a friend
-
 - Less pro projects hosted live: <a href="https://github.com/ktpeace/tip-calculator">💸 Tip Calculator</a> <a href="https://github.com/ktpeace/milkwall">🐮 Milkwall</a>
+
+- In the works: my second portfolio site will be <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a>, a a revamping/revival of the game <a href="http://sf0.org/" target="_blank">SF0</a> for a friend
 
 ---
 
