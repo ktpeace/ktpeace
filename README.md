@@ -11,7 +11,7 @@ Apart from that, I have been programming with other students and solo to cement 
 
 <h3>🎨 Portfolio</h3>
 
-- KUDOGEN Compliment Generator (original project, frontend): https://ktpeace.github.io/kudogen/
+- <a href="https://ktpeace.github.io/kudogen/">KUDOGEN Compliment Generator</a>
 
 - My second portfolio site will be <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a>, a a revamping/revival of the game <a href="http://sf0.org/" target="_blank">SF0</a> for a friend
 
