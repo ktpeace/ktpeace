@@ -4,7 +4,7 @@
 
 <a href="https://linkedin.com/in/katherine-peace" target="blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
 
-I completed the intensive App Academy Open fullstack bootcamp in 2022. 🎊 It was a lot of hard work, but I learned a ton. AAO asked me to be a Discord mod and I continue to work with them on bootcamp improvements. Currently, I am doing an unpaid internship with a startup company while I continue my jobhunt.
+I completed the intensive App Academy Open fullstack bootcamp in 2022. 🎊 It was a lot of hard work, but I learned a ton. AAO asked me to be a Discord mod and I continue to work with them on bootcamp improvements. Currently, I am doing an internship with a startup company while I continue my jobhunt.
 
 
 Apart from that, I have been programming with other students and solo to cement and expand my skills for a career in the field: solving problems, learning new concepts and languages, and making working apps. Some of my strengths are that I am humble, determined, and constantly refactoring myself.
