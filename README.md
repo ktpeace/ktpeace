@@ -100,7 +100,7 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 
 - Continuing to deepen my knowledge of DS&A and solving Leetcodes
 
-- Learning new technologies (see below)
+- Learning new technologies
 
 ---
 
