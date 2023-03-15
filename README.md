@@ -13,7 +13,7 @@ Apart from that, I have been programming with other students and solo to cement 
 
 - <a href="https://ktpeace.github.io/kudogen/">KUDOGEN</a>: Compliment your friends!
 
-- Second serious portfolio project in the works: World Zero (<a href="https://github.com/ktpeace/w0rld">repo</a> / <a href="https://github.com/ktpeace/w0rld">live</a>), a revamping/revival of the game <a href="http://sf0.org/" target="_blank">SF0</a> for a friend
+- Second serious portfolio project in the works: World Zero (<a href="https://github.com/ktpeace/w0rld">repo</a> / <a href="https://world-zero.vercel.app/">live</a>), a revamping/revival of the game <a href="http://sf0.org/" target="_blank">SF0</a> for a friend
 
 - Lesser projects hosted live: <a href="https://dino-ai.netlify.app/">🦖 Dino OpenAI</a> <a href="https://github.com/ktpeace/tip-calculator">💸 Tip Calculator</a> <a href="https://alienbattleship.netlify.app/">👽 Alien Battleship</a> <a href="https://github.com/ktpeace/milkwall">🐮 Milkwall</a>
 
