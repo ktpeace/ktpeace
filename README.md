@@ -66,7 +66,7 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59.svg?style=for-the-badge&logo=Sentry&logoColor=white)
 ![Mailchimp](https://img.shields.io/badge/MailChimp-FFE01B.svg?style=for-the-badge&logo=MailChimp&logoColor=black)
-![Gimp](https://img.shields.io/badge/GIMP-5C5543.svg?style=for-the-badge&logo=GIMP&logoColor=white)
+![Slack Apps](https://img.shields.io/static/v1?label=&message=slack_apps&color=8561ea&style=for-the-badge)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 <h4 align="left">📖Learning</h4>
