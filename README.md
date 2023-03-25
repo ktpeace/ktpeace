@@ -92,7 +92,7 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 
 *<p align="center">📆 What I'm Up To on 3/24</p>*
 
-- Building a marketplace Slack app from scratch for <a href="https://www.amotionsinc.com/" target="_blank">Amotions</a> that writes to with our Firebase db
+- Building a marketplace Slack app from scratch that writes to with our Firebase db in my internship at <a href="https://www.amotionsinc.com/" target="_blank">Amotions</a> 
 
 - Building a Choose Your Own Adventure wintry horror phone app with help from <a href="https://www.inklestudios.com/ink/">Inky</a> (currently brainstorming the plot details with a friend)
 
