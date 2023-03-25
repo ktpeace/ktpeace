@@ -66,7 +66,7 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59.svg?style=for-the-badge&logo=Sentry&logoColor=white)
 ![Mailchimp](https://img.shields.io/badge/MailChimp-FFE01B.svg?style=for-the-badge&logo=MailChimp&logoColor=black)
-![Slack Apps](https://img.shields.io/static/v1?label=&message=slack%20apps&color=2045fa&style=for-the-badge)
+![Slack Apps/API](https://img.shields.io/static/v1?label=&message=slack%20apps&color=2045fa&style=for-the-badge)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 
 <h4 align="left">📖Learning</h4>
@@ -90,13 +90,13 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 
 ---
 
-*<p align="center">📆 What I'm Up To on 3/10</p>*
+*<p align="center">📆 What I'm Up To on 3/24</p>*
 
-- Working part-time as a software engineering intern for <a href="https://www.amotionsinc.com/" target="_blank">Amotions</a>
+- Building a marketplace Slack app from scratch for <a href="https://www.amotionsinc.com/" target="_blank">Amotions</a> that writes to with our Firebase db
 
 - Building a Choose Your Own Adventure wintry horror phone app with help from <a href="https://www.inklestudios.com/ink/">Inky</a> (currently brainstorming the plot details with a friend)
 
-- Building <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a>
+- Setting up the backend for <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a>; currently working with <a href="https://drawsql.app/">DrawSQL</a> and AWS RDS/Elastic Beanstalk
 
 - Building an autodidact learning hub: <a href="https://github.com/ktpeace/autodidactyl" target="_blank">Autodidactyl</a> 
 
