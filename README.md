@@ -91,7 +91,7 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 
 ---
 
-*<p align="center">📆 What I'm Up To on 3/24</p>*
+*<p align="center">📆 What I'm Up To on 4/4</p>*
 
 - Building a marketplace Slack app from scratch that writes to with our Firebase db in my internship at <a href="https://www.amotionsinc.com/" target="_blank">Amotions</a> 
 
