@@ -97,11 +97,11 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 
 - Building a Choose Your Own Adventure wintry horror phone app with help from <a href="https://www.inklestudios.com/ink/">Inky</a> (currently brainstorming the plot details with a friend)
 
-- Setting up the backend for <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a>; currently working with <a href="https://drawsql.app/">DrawSQL</a> and AWS RDS/Elastic Beanstalk
+- Adding Jest testing + APIs for my fullstack app <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a>; just got the Vercel frontend writing to my AWS RDS, thanks to AWS Elastic Beanstalk + Route 53
 
 - Building an autodidact learning hub: <a href="https://github.com/ktpeace/autodidactyl" target="_blank">Autodidactyl</a> 
 
-- Continuing to deepen my knowledge of DS&A and solving Leetcodes
+- Doing CS50 + Google's DS&A course
 
 - Learning new technologies
 
