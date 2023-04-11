@@ -77,6 +77,7 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 <h4 align="left">📖Learning</h4>
 
 ![Jest](https://img.shields.io/badge/Jest-C21325.svg?style=for-the-badge&logo=Jest&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=black)
 
 
 <h4 align="left">🌅On the Horizon</h4>
