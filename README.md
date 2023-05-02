@@ -9,8 +9,6 @@ I completed the intensive App Academy Open fullstack bootcamp in 2022. 🎊 It w
 
 Apart from that, I have been programming with other students and solo to cement and expand my skills for a career in the field: solving problems, learning new concepts and languages, and making working apps. Some of my strengths are that I am humble, determined, and constantly refactoring myself.
 
-Visit my new blog <a href="https://thedevkat.wordpress.com/">here</a>!
-
 <h3>🎨 Portfolio</h3>
 
 - <a href="https://ktpeace.github.io/kudogen/">KUDOGEN</a>: Compliment your friends!
