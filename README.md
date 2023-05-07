@@ -71,6 +71,7 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 ![Mailchimp](https://img.shields.io/badge/MailChimp-FFE01B.svg?style=for-the-badge&logo=MailChimp&logoColor=black)
 ![Slack Apps/API](https://img.shields.io/static/v1?label=&message=slack%20apps&color=2045fa&style=for-the-badge)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
+![YAML](https://img.shields.io/static/v1?label=&message=yaml&color=red&style=for-the-badge)
 
 <h4 align="left">📖Learning</h4>
 
@@ -87,8 +88,6 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4.svg?style=for-the-badge&logo=Microsoft-Azure&logoColor=white)
 ![Snyk](https://img.shields.io/badge/Snyk-4C4A73.svg?style=for-the-badge&logo=Snyk&logoColor=white)
-![YAML](https://img.shields.io/static/v1?label=&message=yaml&color=red&style=for-the-badge)
-
 
 
 ---
