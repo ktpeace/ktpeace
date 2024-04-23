@@ -89,19 +89,13 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 
 ---
 
-*<p align="center">📆 What I'm Up To on 4/23</p>*
+*<p align="center">📆 What I'm Up To on 4/23/2024</p>*
 
-- Building a marketplace Slack app from scratch using Slack API, Bolt, and Firebase Cloud Functions in my internship at <a href="https://www.amotionsinc.com/" target="_blank">Amotions</a> 
+- Doing final improvements and bug fixes for the launch of the neuroscience-inspired AI development app at my job at Neuraville
 
-- Building a Choose Your Own Adventure wintry horror phone app with help from <a href="https://www.inklestudios.com/ink/">Inky</a> (currently brainstorming the plot details with a friend)
+- Building a Choose Your Own Adventure wintry horror phone app with help from <a href="https://www.inklestudios.com/ink/">Inky</a> (currently writing the main plotline)
 
-- Adding Jest testing and remaining MySQL tables for my fullstack app <a href="https://github.com/ktpeace/w0rld" target="_blank">World Zero</a>; just got the Vercel frontend writing to my AWS RDS, thanks to AWS Elastic Beanstalk + Route 53
-
-- Building an autodidact learning hub: <a href="https://github.com/ktpeace/autodidactyl" target="_blank">Autodidactyl</a> 
-
-- Doing CS50 + Google's DS&A course
-
-- Learning new technologies
+- Awaiting a revised plan from the project manager for the aforementioned World Zero app
 
 ---
 
@@ -111,7 +105,7 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 
 *I acknowledge that software engineers are probably humans.*
 
-Outside of coding, I spend a lot of time talking to friends and walking in the woods. My primary life passion is writing fiction, especially in the genre of magical realism. Other hobbies include foreign languages, car mechanics, world history, karate, the constellations, juggling, guitar, anatomy, sketching, and plant identification. Lately I have mostly just been focusing on programming, though. I try to do vipassana meditation daily. 
+Outside of coding, I spend a lot of time talking to friends and walking in the woods. My primary life passion is writing fiction, especially in the genre of magical realism. Other hobbies include foreign languages, car mechanics, world history, karate, the constellations, juggling, guitar, anatomy, sketching, and plant identification. I try to do vipassana meditation daily. 
 
 <h3>🐎 Reading: Don Quixote (it's funny! no really!)</h3>
 <details><summary>Click here for evidence that Don Quixote is funny</summary> 
@@ -135,14 +129,14 @@ Outside of coding, I spend a lot of time talking to friends and walking in the w
 
 <h3>🗄️ Watching: Alice in Borderland</h3>
 
-- Fave Netflix show: Midnight Mass
+- Fave Netflix show: Alice in Borderland or Midnight Mass
 - Fave movie: A Thousand Clowns
 - Fave show as a child: Probably the animated X-Men (best while eating Lucky Charms)
 
 
-<h3>🎮 Playing: Divinity: Original Sin II</h3>
+<h3>🎮 Playing: Baldur's Gate III</h3>
 
-- I also play darts with my dad sometimes, which has way fewer dwarves
+- Where is my owlbear cub though?! 😿
 
 --- 
 
