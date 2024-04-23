@@ -4,7 +4,7 @@
 
 <a href="https://linkedin.com/in/katherine-peace" target="blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
 
-I completed the intensive App Academy Open fullstack bootcamp in 2022. 🎊 It was a lot of hard work, but I learned a ton. AAO asked me to be a Discord mod and I continue to work with them on bootcamp improvements. I did an internship with a startup company and then began working at Neuraville in Pittsburgh. 
+I completed the intensive App Academy Open fullstack bootcamp in 2022. 🎊 It was a lot of hard work, but I learned a ton. AAO asked me to be a Discord mod and I continue to work with them on bootcamp improvements. I did an internship with a startup company named Amotions, and now I work at Neuraville in Pittsburgh. 
 
 <h3>🎨 Portfolio</h3>
 
