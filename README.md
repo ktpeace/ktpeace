@@ -6,7 +6,7 @@
 
 <h3>⛰️ My Journey</h3>
 
-In 2022, I completed the self-driven, intensive App Academy Open fullstack bootcamp. 🎊 AAO asked me to be a Discord mod and I continued to work with them on bootcamp improvements. After that, I did an internship with a startup company named Amotions. In 2023, I began working at the AGI development company Neuraville in Pittsburgh. 
+In 2022, I completed the self-driven, intensive App Academy Open fullstack bootcamp. They asked me to be a Discord mod and I continued to work with them on bootcamp improvements. After that, I did an internship with a startup company named Amotions. In 2023, I began working at the AGI development company Neuraville in Pittsburgh. 
 
 <h3>🎨 Portfolio</h3>
 
