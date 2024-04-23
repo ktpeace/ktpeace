@@ -2,9 +2,9 @@
 
 <h2>🤖 About Me As a Software Engineer</h2>
 
-<h3>⛰️ My Journey</h3>
-
 <a href="https://linkedin.com/in/katherine-peace" target="blank"> ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) </a> 
+
+<h3>⛰️ My Journey</h3>
 
 In 2022, I completed the self-driven, intensive App Academy Open fullstack bootcamp. 🎊 AAO asked me to be a Discord mod and I continued to work with them on bootcamp improvements. After that, I did an internship with a startup company named Amotions. In 2023, I began working at the AGI development company Neuraville in Pittsburgh. 
 
