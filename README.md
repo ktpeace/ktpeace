@@ -138,7 +138,7 @@ Outside of coding, I spend a lot of time talking to friends and walking in the w
 
 <h3>🎮 Playing: Baldur's Gate III</h3>
 
-- Where is my owlbear cub though?! 😿
+- Still waiting on that owlbear cub...
 
 --- 
 
