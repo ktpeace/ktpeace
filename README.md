@@ -10,9 +10,11 @@ In 2022, I completed the self-driven, intensive App Academy Open fullstack bootc
 
 <h3>🎨 Portfolio</h3>
 
+- <a href="https://thought-experiment-explorer.vercel.app/">Thought Experiment Explorer</a>
+
 - <a href="https://ktpeace.github.io/kudogen/">KUDOGEN</a>: Compliment your friends!
 
-- Second serious portfolio project in the works: World Zero (<a href="https://github.com/ktpeace/w0rld">repo</a> / <a href="https://world-zero.vercel.app/">live</a>), a revamping/revival of the game <a href="http://sf0.org/" target="_blank">SF0</a> for a friend
+- Working on World Zero (<a href="https://github.com/ktpeace/w0rld">repo</a> / <a href="https://world-zero.vercel.app/">live</a>), a revamping/revival of the game <a href="http://sf0.org/" target="_blank">SF0</a> for a friend / Microsoft PM
 
 - Lesser projects hosted live: <a href="https://github.com/ktpeace/tip-calculator">💸 Tip Calculator</a> <a href="https://alienbattleship.netlify.app/">👽 Alien Battleship</a> <a href="https://github.com/ktpeace/milkwall">🐮 Milkwall</a>
 
