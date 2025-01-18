@@ -93,16 +93,6 @@ Due in part to former work at a Commission for the Blind, I am keenly interested
 
 ---
 
-*<p align="center">📆 What I'm Up To on 4/23/2024</p>*
-
-- Doing final improvements and bug fixes for the launch of the neuroscience-inspired AI development app at my job at Neuraville
-
-- Building a Choose Your Own Adventure wintry horror phone app with help from <a href="https://www.inklestudios.com/ink/">Inky</a> (currently writing the main plotline)
-
-- Awaiting a revised plan from the project manager for the aforementioned World Zero app
-
----
-
 <p align="center">🌿</p>
 
 <h2>👩 About Me As A Human</h2>
