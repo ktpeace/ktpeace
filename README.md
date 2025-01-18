@@ -14,7 +14,7 @@ In 2022, I completed the self-driven, intensive App Academy Open fullstack bootc
 
 - <a href="https://ktpeace.github.io/kudogen/">KUDOGEN</a>: Compliment your friends!
 
-- Working on World Zero (<a href="https://github.com/ktpeace/w0rld">repo</a> / <a href="https://world-zero.vercel.app/">live</a>), a revamping/revival of the game <a href="http://sf0.org/" target="_blank">SF0</a> for a friend / Microsoft PM
+- <a href="https://neurorobotics.studio/">Neurorobotics Studio</a>: As a Neuraville employee, built entire frontend site to CEO's specs. It allows users to interface with the company's AGI.
 
 - Lesser projects hosted live: <a href="https://github.com/ktpeace/tip-calculator">💸 Tip Calculator</a> <a href="https://alienbattleship.netlify.app/">👽 Alien Battleship</a> <a href="https://github.com/ktpeace/milkwall">🐮 Milkwall</a>
 
