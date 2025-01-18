@@ -20,7 +20,7 @@ In 2022, I completed the self-driven, intensive App Academy Open fullstack bootc
 
 <h3>💟 Values</h3>
 
-Due in part to former work at a Commission for the Blind, I am keenly interested in gaining accessibility expertise. I also have great admiration for the Electronic Frontier Foundation and take Internet privacy seriously. AI is a major concern both in terms of everyone's job security and ethical design/training, but it is inevitable, so I would like to work on helping build positive AI someday (ref. Baymax 💙). I appreciate companies that consider their environmental impact. Essentially, I'll be happy doing anything that helps people or other living beings. And of course, I want to write code in a way that makes things easy for my fellow developers.
+Due in part to former work at a Commission for the Blind, I am keenly interested in gaining accessibility expertise. I also have great admiration for the Electronic Frontier Foundation and take Internet privacy seriously. I appreciate companies that consider their environmental impact. Essentially, I'll be happy doing anything that helps people or other living beings. And of course, I want to write code in a way that makes things easy for my fellow developers.
 
 <h3 align="left">💻 Skills</h3>
 
